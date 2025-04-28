@@ -1,2 +1,4 @@
 # Mux_StimRec
-Code for a multichannel stimulator/recording device. 
+Code directory for a multichannel stimulator/recording device. 
+
+
